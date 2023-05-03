@@ -1,0 +1,96 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Alkatra:wght@500&family=Bruno+Ace&family=Cookie&family=Dancing+Script:wght@500&family=Gloria+Hallelujah&family=Instrument+Serif:ital@1&family=Itim&family=Josefin+Sans:ital,wght@1,300&family=Pacifico&family=Satisfy&family=Sigmar&family=Ysabeau:ital,wght@1,400;1,900&display=swap');
+
+
+ *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+ }
+
+ body{
+  font-family: 'Josefin Sans', sans-serif;
+   justify-content: center;
+   min-height:100vh;
+   padding:1.5rem;
+ }
+ .oo{
+  font-family: 'Dancing Script', cursive;
+  font-size: 50px;
+  margin-left: 10%;
+  
+   }
+
+.o1{
+  font-family: 'Itim', cursive;
+  font-size: 20px;
+  margin: 3%;
+  -webkit-text-stroke: .5px black;
+}
+  .container{
+    font-family: 'Itim', cursive;
+    -webkit-text-stroke: .1px black;
+    font-size: 18px;
+  }
+  .psw{
+    margin-left: 5%;
+  }
+   .log-card
+   {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-evenly;
+      align-items: center;
+      margin: 10%;
+      
+   }
+  .column1
+ {
+    color: white;
+    align-items: left;
+    backdrop-filter: blur(5px);
+    box-shadow: 0 10px 50px-30ps black;
+    width: 400px;
+    height: 500px;
+    border-radius: 20px; 
+    overflow: hidden;
+    display: grid;
+ }
+ .column2
+ {
+    color: white;
+    margin-right: 10px;
+    backdrop-filter: blur(5px);
+    box-shadow: 0 10px 50px-30ps black;
+    width: 500px;
+    height: 450px;
+    border-radius: 20px; 
+    overflow: hidden;
+    display: grid;
+ }
+ .tt{
+  font-family: 'Satisfy', cursive;
+  font-size: 50px;
+  margin-left: 10%;
+  
+  -webkit-text-stroke: .5px black;
+  
+ }
+ .t1{
+  font-family: 'Ysabeau', sans-serif;
+  -webkit-text-stroke: .3px black;
+  font-size: 18px;
+  align-items: center;
+  margin-left: 12%;
+  margin-right: 10%;
+ }
+
+ .t2
+ {
+  font-family: 'Ysabeau', sans-serif;
+  margin-left: 20%;
+  color: rgb(149, 142, 165);
+  -webkit-text-stroke: .1px black;
+  
+ }
+ 
